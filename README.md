@@ -1,4 +1,4 @@
-# DS_Salary_Project
+# Data Science Salary Project
 
 Medium Article Post: 
 
@@ -12,6 +12,8 @@ Data Source (in total):
 - Glassdoor web scraped by myself
 - Ken Jee's github: https://github.com/PlayingNumbers/ds_salary_proj
 - Kaggle dataset: https://www.kaggle.com/rashikrahmanpritom/data-science-job-posting-on-glassdoor
+
+# Project EDA Results: 
 
 ![ScreenShot](https://github.com/Kizuna-Cheng/DS_Salary_Project/blob/main/Word_cloud.png)
 
