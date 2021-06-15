@@ -13,11 +13,7 @@ In summary, the project is about:
 AWS | 0 | 1 |
 --- | --- | --- | 
 Job |   |   |
---- | --- | --- | 
 Data Analyst | 113 | 10 | 
---- | --- | --- | 
 Data Engineer | 58 | 59 | 
---- | --- | --- | 
 Data Scientist | 902 | 185 | 
---- | --- | --- | 
 Machine Learning Engineer | 28 | 18 | 
