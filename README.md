@@ -19,3 +19,23 @@ Data Scientist | 902 | 185 |                                     Data Scientist 
 Machine Learning Engineer | 28 | 18 |                            Machine Learning Engineer | 42 | 4 |                      Machine Learning Engineer | 43 | 3 |
 
 
+
+Python | 0 | 1 |                                                 SQL | 0 | 1 |                                             R | 0 | 1 |
+--- | --- | --- |                                                --- | --- | --- |                                         --- | --- | --- |
+Job |   |   |                                                    Job |   |   |                                             Job |   |   | 
+Data Analyst | 72 | 51 |                                         Data Analyst | 31 | 92 |                                  Data Analyst | 120 | 3 | 
+Data Engineer | 34 | 83 |                                        Data Engineer | 26 | 91 |                                 Data Engineer | 117 | 0 | 
+Data Scientist | 484 | 603 |                                     Data Scientist | 655 | 432 |                              Data Scientist | 1086 | 1 | 
+Machine Learning Engineer | 10 | 36 |                            Machine Learning Engineer | 27 | 19 |                     Machine Learning Engineer | 46 | 0 |
+
+
+
+TensorFlow | 0 | 1 |                                             PyTorch | 0 | 1 |                                         Keras | 0 | 1 |
+--- | --- | --- |                                                --- | --- | --- |                                         --- | --- | --- |
+Job |   |   |                                                    Job |   |   |                                             Job |   |   | 
+Data Analyst | 123 | 0 |                                         Data Analyst | 123 | 0 |                                  Data Analyst | 123 | 0 | 
+Data Engineer | 116 | 1 |                                        Data Engineer | 117 | 0 |                                 Data Engineer | 117 | 0 | 
+Data Scientist | 951 | 136 |                                     Data Scientist | 1022 | 65 |                              Data Scientist | 1030 | 57 | 
+Machine Learning Engineer | 20 | 26 |                            Machine Learning Engineer | 24 | 22 |                     Machine Learning Engineer | 42 | 4 |
+
+
