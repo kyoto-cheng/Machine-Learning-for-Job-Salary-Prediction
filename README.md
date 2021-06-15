@@ -1,6 +1,7 @@
 # Data Science Salary Project
 
 Medium Article Post: 
+https://gakki-cheng.medium.com/data-science-job-salary-predictor-with-machine-learning-from-glassdoor-ad1ca38c6175
 
 In summary, the project is about:
 - Scraping real-world data from the Glassdoor with Selenium
