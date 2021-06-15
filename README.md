@@ -10,7 +10,14 @@ In summary, the project is about:
 
 ![ScreenShot](https://github.com/Kizuna-Cheng/DS_Salary_Project/blob/main/Word_cloud.png)
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
-
+AWS | 0 | 1 |
+--- | --- | --- | 
+Job |   |   |
+--- | --- | --- | 
+Data Analyst | 113 | 10 | 
+--- | --- | --- | 
+Data Engineer | 58 | 59 | 
+--- | --- | --- | 
+Data Scientist | 902 | 185 | 
+--- | --- | --- | 
+Machine Learning Engineer | 28 | 18 | 
