@@ -10,12 +10,12 @@ In summary, the project is about:
 
 ![ScreenShot](https://github.com/Kizuna-Cheng/DS_Salary_Project/blob/main/Word_cloud.png)
 
-AWS | 0 | 1 |                                                    Azure | 0 | 1 |
---- | --- | --- |                                                --- | --- | --- | 
-Job |   |   |                                                    Job |   |   |
-Data Analyst | 113 | 10 |                                        Data Analyst | 119 | 4 | 
-Data Engineer | 58 | 59 |                                        Data Engineer | 95 | 22 | 
-Data Scientist | 902 | 185 |                                     Data Scientist | 1033 | 54 | 
-Machine Learning Engineer | 28 | 18 |                            Machine Learning Engineer | 42 | 4 | 
+AWS | 0 | 1 |                                                    Microsoft Azure | 0 | 1 |                                 Google Cloud | 0 | 1 |
+--- | --- | --- |                                                --- | --- | --- |                                         --- | --- | --- |
+Job |   |   |                                                    Job |   |   |                                             Job |   |   | 
+Data Analyst | 113 | 10 |                                        Data Analyst | 119 | 4 |                                  Data Analyst | 122 | 1 | 
+Data Engineer | 58 | 59 |                                        Data Engineer | 95 | 22 |                                 Data Engineer | 103 | 14 | 
+Data Scientist | 902 | 185 |                                     Data Scientist | 1033 | 54 |                              Data Scientist | 1044 | 43 | 
+Machine Learning Engineer | 28 | 18 |                            Machine Learning Engineer | 42 | 4 |                      Machine Learning Engineer | 43 | 3 |
 
 
