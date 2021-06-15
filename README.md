@@ -10,10 +10,12 @@ In summary, the project is about:
 
 ![ScreenShot](https://github.com/Kizuna-Cheng/DS_Salary_Project/blob/main/Word_cloud.png)
 
-AWS | 0 | 1 |
---- | --- | --- | 
-Job |   |   |
-Data Analyst | 113 | 10 | 
+AWS | 0 | 1 |                                                    AWS | 0 | 1 |
+--- | --- | --- |                                                --- | --- | --- | 
+Job |   |   |                                                    Job |   |   |
+Data Analyst | 113 | 10 |                                        Data Analyst | 113 | 10 | 
 Data Engineer | 58 | 59 | 
 Data Scientist | 902 | 185 | 
 Machine Learning Engineer | 28 | 18 | 
+
+
