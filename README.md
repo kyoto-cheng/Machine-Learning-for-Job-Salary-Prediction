@@ -3,7 +3,10 @@
 Medium Article Post: 
 
 In summary, the project is about:
-- scraping real-world data from the Glassdoor with Selenium
-- performing data cleaning & feature engineering with NLTK
-- building a machine learning model to predict job salary interval based on both text & numeric features with Sklearn FeatureUnion. 
+- Scraping real-world data from the Glassdoor with Selenium
+- Performing data cleaning & feature engineering with NLTK
+- Demostrating EDA results with word cloud map & pivot tables 
+- Machine learning model on job salary interval prediction utilizing Sklearn FeatureUnion, Random Forest Classifier 
+
+![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/{path})
 
