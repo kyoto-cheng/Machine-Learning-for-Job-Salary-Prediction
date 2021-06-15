@@ -8,5 +8,5 @@ In summary, the project is about:
 - Demostrating EDA results with word cloud map & pivot tables 
 - Machine learning model on job salary interval prediction utilizing Sklearn FeatureUnion, Random Forest Classifier 
 
-![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/{path})
+![ScreenShot](https://github.com/Kizuna-Cheng/DS_Salary_Project/blob/main/Word_cloud.png)
 
